@@ -1,0 +1,10 @@
+.menu{
+    background-color: #fff;
+    height: 100vh;
+    min-width: 20rem;
+    display: grid;
+    grid-template-rows: 1fr 5fr;
+    padding: 1.8rem 2rem;
+    box-shadow: 2px 0 2px rgba(0, 0, 0,.15);
+    z-index: 1;
+}

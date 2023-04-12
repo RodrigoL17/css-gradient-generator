@@ -1,0 +1,20 @@
+.clipButton{
+    background-color: #f1f4f8;
+    color:#3d4853;
+    cursor: pointer;
+    width: 16rem;
+    height: 3rem;
+    text-align: center;
+    border-radius: 6px;
+    outline: none;
+    font-size: .8125rem;
+    font-weight: 600;
+    line-height: 3rem;
+    border: none;
+}
+
+.clipButton:hover{
+    background: #3d4853;
+    color: #fff;
+    box-shadow: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08);
+}

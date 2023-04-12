@@ -1,0 +1,13 @@
+.sectionButton {
+    width:5rem ;
+    height: 2rem;
+    border-radius: 6px;
+    background-color: #fff;
+    border: 2px solid #f1f4f8;
+    cursor: pointer;
+}
+
+.sectionButton:focus {
+    background-color: #f1f4f8
+}
+

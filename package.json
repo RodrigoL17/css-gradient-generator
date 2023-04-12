@@ -9,8 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "hex-rgb": "^5.0.0",
     "next": "13.3.0",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
-  }
+    "react-dom": "18.2.0",
+    "rgb-hex": "^4.0.1"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "next.config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-gradient-generator/Next.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css-gradient-generator/Next.js/issues"
+  },
+  "homepage": "https://github.com/css-gradient-generator/Next.js#readme"
 }

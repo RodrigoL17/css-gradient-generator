@@ -1,0 +1,24 @@
+.Style {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.Direction {
+ 
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px
+}
+
+.Colors {
+  display: flex;
+  justify-content: space-between;
+ 
+}
+
+.Outputformat {
+  display: flex;
+  justify-content: space-around;
+
+}
